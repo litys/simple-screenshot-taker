@@ -11,7 +11,7 @@ Just click 2 times on **run.pyw**
 Add **run.pyw** to autostart. In Win10:
 1. Press **Windows+R**.
 2. Type "shell:startup" and press enter.
-3. Add there paste a **shortcut** to run.pyw.
+3. Paste there a **shortcut** to run.pyw.
 **IMPORTANT! DO NOT PASTE THERE run.pyw!** Application is creating pictures in folder where is. So paste there **only a shortcut to application**.
 
 ## Config
