@@ -1,6 +1,9 @@
 # simple-screenshot-taker
 Screenshot taker in python for Windows users. Fast parental supervision.
 
+exe version available [here](https://github.com/litys/simple-screenshot-taker/releases/download/v1.0/run.exe).
+Compiled version doing screenshots every 60 seconds until shutdown computer (or killing by process).
+
 ## Requirements
 `pip install PyAutoGUI`
 
